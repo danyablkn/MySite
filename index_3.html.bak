@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Досягнення клубу </title>
+  <meta name="description" content="Досягнення клубу ThunderGoal">
+  <meta name="author" content="htmlGenerator">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles_3.css">
+  <link rel="icon" href="images/icon.ico" type="image/x-icon">
+  
+  <style>
+    body {
+      background: #E5E5E5;
+      margin: 0;
+    }
+    h1 { font-size: 40px; }
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+    }
+    .social-icon {
+      border-radius: 50%;
+      background-color: rgba(255, 255, 255, 1);
+      width: 42px;
+      height: 42px;
+      position: absolute;
+      top: 54px;
+    }
+    .social-icon img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+    }
+    .facebook { left: 1713px; }
+    .instagram { left: 1766px; }
+    .twitter { left: 1822px; }
+  </style>
+</head>
+<body>
+  <div class="e11_101">
+    <div class="e11_102"></div>
+    <div class="e11_103"></div>
+    <div class="e90_14"></div>
+    <div class="e11_106"></div>
+    <a href="https://www.facebook.com" target="_blank">
+      <div class="social-icon facebook">
+        <img src="images/image_4.png" alt="Facebook">
+      </div>
+    </a>
+    <a href="https://www.instagram.com" target="_blank">
+      <div class="social-icon instagram">
+        <img src="images/image_5.png" alt="Instagram">
+      </div>
+    </a>
+    <a href="https://www.twitter.com" target="_blank">
+      <div class="social-icon twitter">
+        <img src="images/image_6.png" alt="Twitter">
+      </div>
+    </a>
+    <a href="index.html"><span class="e18_6">Основна</span></a>
+    <a href=""><span class="e18_7">Статистика матчів</span></a>
+    <a href="index_3.html"><span class="e18_8">Досягнення</span></a>
+    <a href="index_2.html"><span class="e18_9">Про нас</span></a>
+    <div class="e19_30"></div>
+    <h1 class="e19_31">Досягнення клубу ThunderGoal</h1>
+    <p class="e19_32">З початку заснування клубу ThunderGoal нам вдалось здобути чимало досягнень:</p>
+    <p class="e19_33">1. Здобуття Кубка світу з клубного чемпіонату FIFA</p>
+    <div class="e90_5"></div>
+    <div class="e90_6">CLUB</div>
+    <div class="e90_7">ThunderGoal</div>
+    <p class="e90_54">2. Виграш Ліги чемпіонів UEFA</p>
+    <p class="e90_55">3. Виграш Чемпіонату світу з футболу</p>
+    <p class="e90_56">4. Виграш Кубка Європи</p>
+    <div class="e90_73"></div>
+  </div>
+  <div class="footer">
+    ThunderGoal © 2024. Всі права захищені.
+  </div>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ThunderGoal - Головна</title>
+  <link rel="icon" href="icon.ico" type="image/x-icon">
+  <meta name="description" content="Figma htmlGenerator">
+  <meta name="author" content="htmlGenerator">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles_2.css">
+  <link rel="icon" href="images/icon.ico" type="image/x-icon">
+  <style>
+    body {
+      background: #E5E5E5;
+      margin: 0;
+    }
+    h1 { 
+      font-size: 40px;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+    }
+    .social-icons {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+    .social-icons a {
+      display: inline-block;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="e11_128">
+    <div class="social-icons">
+      <a href="https://facebook.com"><img src="images/facebook_icon.png" alt="Facebook"></a>
+      <a href="https://instagram.com"><img src="images/instagram_icon.png" alt="Instagram"></a>
+      <a href="https://twitter.com"><img src="images/twitter_icon.png" alt="Twitter"></a>
+    </div>
+    <div class="e11_129"></div>
+    <div class="e11_130"></div>
+    <div class="e11_131"></div>
+    <div class="e11_133"></div>
+    <div class="e11_146"></div>
+    <div class="e11_147"></div>
+    <div class="e11_148"></div>
+    <div class="e11_149"></div>
+    <div class="e11_150"></div>
+    <div class="e11_151"></div>
+    <h1 class="e14_245">ThunderGoal</h1>
+    <div class="e15_259"></div>
+    <div class="e15_264"></div>
+    <span class="e15_266">Сучасне поле!</span>
+    <h1 class="e15_270">МИ ПРОПОНУЄМО</h1>
+    <span class="e15_267">Ефективне навчання!</span>
+    <span class="e15_268">Грантований успіх!</span>
+    <span class="e15_269">Щасливе майбутнє!</span>
+    <a href="index.html"><span class="e18_10">Основна</span></a>
+    <a href=""><span class="e18_11">Статистика матчів</span></a>
+    <a href="index_3.html"><span class="e18_12">Досягнення</span></a>
+    <a href="index_2.html"><span class="e18_13">Про нас</span></a>
+    <div class="e19_73"></div>
+    <div class="e19_74"></div>
+    <span class="e81_3">- це не просто футбольний клуб, це арена, де твої мрії про велич і успіх стають реальністю. У нашій команді ти відчуєш потужний удар грому і зможеш здійснити свій "гол" на шляху до визнання та слави. Приєднуйся до ThunderGoal, де народжуються легенди, і стань частиною команди, яка змінює правила гри.</span>
+    <div class="e90_2"></div>
+    <span class="e90_3">CLUB</span>
+    <span class="e90_4">ThunderGoal</span>
+  </div>
+  <div class="footer">
+    ThunderGoal © 2024. Всі права захищені.
+  </div>
+</body>
+</html>
